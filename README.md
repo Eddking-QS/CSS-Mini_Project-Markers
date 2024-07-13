@@ -17,7 +17,7 @@ A simple project to practice CSS styling. This project is a simple webpage with 
 
 ## Live Demo
 
-[Color Markers](https://eddking-qs.github.io/CSS-Mini_Project-Color_Markers/)
+[Color Markers](https://eddking-qs.github.io/CSS-Mini_Project-Markers/)
 
 ## Disclaimer
 
